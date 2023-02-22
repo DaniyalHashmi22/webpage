@@ -1,0 +1,40 @@
+body{
+    background: rgba(0, 0, 0, 0.199);
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgba(128, 128, 128, 0.342);
+    border-radius: 10px;
+    font-size: 20px;
+}
+li:hover{
+    color: blue;
+}
+a{
+  padding: 15px; 
+  text-decoration: none; 
+  color:black;
+    
+}
+.shadow h1{
+    font-size: 30px;
+    display: inline;
+}
+span{
+    font-size: 35px;
+    color: blue;
+}
+li {
+   text-decoration: none; 
+   line-height: 50px;
+   background-color: rgba(255, 255, 255, 0.562);
+  
+}
+.the3{
+    background: url(img1.jpg) no-repeat;
+background-size: cover;
+}
+.about2:hover{
+    color: gray;
+}
+
